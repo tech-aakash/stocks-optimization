@@ -2,7 +2,9 @@
  This project involves creating an optimal portfolio of stocks based on the Sharpe Ratio, a measure used to calculate risk-adjusted return.
 
 The application uses historical stock price data to calculate portfolio returns, variances, and the Sharpe Ratio. It employs optimization techniques to determine the optimal weights of each stock in the portfolio that maximize the Sharpe Ratio.  
-   
+
+![Output](<Screenshot 2024-03-11 at 10.33.25 PM.png>)
+
 ## Key Features  
    
 - Calculation of the maximum Sharpe Ratio and the corresponding portfolio return and volatility.  
