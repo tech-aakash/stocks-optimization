@@ -1,4 +1,4 @@
-# stocks-optimization
+# Stocks Optimization using Sharpe Ratio(SLSQP)
  This project involves creating an optimal portfolio of stocks based on the Sharpe Ratio, a measure used to calculate risk-adjusted return.
 
 The application uses historical stock price data to calculate portfolio returns, variances, and the Sharpe Ratio. It employs optimization techniques to determine the optimal weights of each stock in the portfolio that maximize the Sharpe Ratio.  
